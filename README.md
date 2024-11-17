@@ -28,7 +28,7 @@ This Python application manages a fictional chocolate house using SQLite. It han
 Clone the project to your local machine:
 
 
-git clone https://github.com/yourusername/chocolate_house.git
+git clone https://github.com/pushprajtiwary/chocolate_house.git
 cd chocolate_house
 ### **2. Create and Activate Virtual Environment**
 
@@ -149,7 +149,7 @@ We welcome contributions to improve this project! Follow the steps below to cont
    Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/chocolate_house.git
+   git clone https://github.com/pushprajtiwary/chocolate_house.git
    cd chocolate_house
 ### **12. License**
 
